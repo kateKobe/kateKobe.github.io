@@ -1,0 +1,28 @@
+﻿@charset "UTF-8";
+body{
+	background-color:#fcf8c9;
+	color:#400080;
+	width : 650px ;
+	margin : 40px auto ;
+	line-height : 200% ;
+}
+h1{
+	background-color:#400080;
+	color:#fcf8c9;
+	text-align:center;
+}
+
+
+
+table {
+border : solid 2px #000000 ;
+border-collapse : collapse ;
+}
+th,td {
+border : solid 2px #000000 ;
+}
+
+img.gazo{
+float:right;
+}
+
